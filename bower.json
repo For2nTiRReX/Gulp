@@ -1,0 +1,25 @@
+{
+  "name": "src",
+  "authors": [
+    "Bogdan <bogdkovalov@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "directory": "src/bower_components",
+  "storage": {
+    "packages": "src/bower_components"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "normalize-css": "^7.0.0",
+    "jquery": "^3.3.1",
+    "fontawesome": "^4.6.1"
+  }
+}
